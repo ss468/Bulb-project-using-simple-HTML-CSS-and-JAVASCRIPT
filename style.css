@@ -1,0 +1,49 @@
+/* .bulb1{
+    position: absolute;
+    top: 300px;
+    right: 300px;
+    left: 850px;
+    /* height: 400px;
+    width: 400px; */
+/* } */ 
+  /* .bulb1{
+    position: absolute;
+    top: 280px;
+    right: 300px;
+    left: 850px;
+    height: 300px;
+    width: 300px; 
+}   */
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.off{
+    position: absolute;
+    top:600px;
+    left:1000px;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.on{
+    position: absolute;
+    top:600px;
+    /* left: 500px; */
+    left: 900px;
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.statement{
+    position: absolute;
+    top:200px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
